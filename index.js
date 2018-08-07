@@ -12,4 +12,4 @@ greeting = "Hello, everybody!";
 
 greetSpecialGuest = "Hello, " + specialGuest + "!";
 
-conversation = `Let's talk about ${topic}`;
+conversation = `Let's talk about ${topic}.`;
